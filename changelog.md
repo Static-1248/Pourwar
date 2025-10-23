@@ -39,7 +39,7 @@
 
 ---
 
-### Upcoming: v2.0 pre1 (2025-6)
+### Upcoming: v2.0 pre1 (2025-12)
 
 大幅提升游戏美术。
 
@@ -63,7 +63,7 @@ Overhaul game art.
 
 ---
 
-### Upcoming: v1.2 pre1 (2025-5)
+### Upcoming: v1.2-alpha-1 (2025-12)
 
 使用现代C++技术重构游戏工程，提升性能和可维护性。
   - 使用主流工程结构；引入vcpkg和cmake构建系统，支持多平台编译。
@@ -81,7 +81,19 @@ Refactor game project with modern C++ technology to improve performance and main
 
 ---
 
-### v1.1 (2023-01-11)
+### v1.1.1 - 2025-10-24
+
+1. 设置 CMake 构建系统
+2. 删除了游戏启动时打开的控制台窗口
+
+---
+
+1. Set up CMake build system
+2. Removed the console window that opens when the game starts
+
+---
+
+### v1.1 (unknown - 2023-01-11)
 
 1. 取消键盘操作，改为鼠标操作，操作更加便捷。
 2. 优化颜色对比度，提升辨识度。
